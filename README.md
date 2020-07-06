@@ -1,6 +1,10 @@
 # wyy-mobile
 仿网易云音乐app
 
+###项目运行前，需在本地启一个服务
+
+
+
 ## Project setup
 ```
 git clone https://github.com/ddx2019/wyy-mobile.git
@@ -21,6 +25,7 @@ yarn build
 ```
 yarn lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
