@@ -1,7 +1,7 @@
 # wyy-mobile
 仿网易云音乐app
 
-#项目运行前，需在本地启一个服务
+## 项目运行前，需在本地启一个服务
 
 要启动的项目地址： https://github.com/Binaryify/NeteaseCloudMusicApi
 
