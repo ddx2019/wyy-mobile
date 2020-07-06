@@ -7,9 +7,10 @@
 
 ```
 git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git // 下载
-npm install // 安装
-node app.js // 启动
 
+npm install // 安装
+
+node app.js // 启动
 ```
 
 ## Project setup
